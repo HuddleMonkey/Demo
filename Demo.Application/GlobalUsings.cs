@@ -1,0 +1,13 @@
+﻿global using Demo.Application.Domain;
+global using Demo.Application.Infrastructure.Data;
+global using Demo.Dto.Results;
+global using Demo.Shared.Constants;
+global using Demo.Shared.Extensions;
+global using Demo.Shared.Utilities;
+global using FluentValidation;
+global using Mapster;
+global using MediatR;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using System.Security.Claims;

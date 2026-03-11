@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="Demo.Api/Demo.Api.csproj" />
+    <Project Path="Demo.Application/Demo.Application.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Demo.Dto/Demo.Dto.csproj" />
+    <Project Path="Demo.Shared/Demo.Shared.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+</Solution>
